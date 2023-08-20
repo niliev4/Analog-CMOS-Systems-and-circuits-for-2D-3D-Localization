@@ -1,0 +1,8 @@
+$DATA1 SOURCE='HSPICE' VERSION='K-2015.06-SP2 linux64' PARAM_COUNT=0
+.TITLE ' '
+ curr_vdd1        pwr_vdd1         curr_vco1        pwr_vco1        
+ curr_vco2        pwr_vco2         total_pwr        temper          
+ alter#          
+ -2.867e-04       -1.720e-04       -8.254e-07       -4.672e-07      
+ -8.254e-07       -4.672e-07       -1.730e-04        2.500e+01      
+ 1               
